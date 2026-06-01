@@ -328,4 +328,4 @@ jobs:
           done
 
           echo "ALB health check failed"
-          exit 1
+          exit 1 
