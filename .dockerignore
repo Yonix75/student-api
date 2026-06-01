@@ -6,4 +6,3 @@ dist
 tests
 *.test.ts
 vitest.config.ts
-commands.md
